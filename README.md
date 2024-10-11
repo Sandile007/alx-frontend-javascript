@@ -1,1 +1,1 @@
-ALX Front End Specilisation
+Front-end Development JavaScript
